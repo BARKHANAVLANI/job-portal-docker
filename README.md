@@ -1,5 +1,12 @@
 # 🚀 Dockerized Job Portal Backend
 
+## 📦 Docker Image
+
+Pull and run:
+
+```bash
+docker pull barkhanavlani/job-portal-docker
+
 ## 🔧 Tech Stack
 - Node.js
 - Express.js
